@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Court-Counter-project2</string>
+    <string name="team_A">Team A</string>
+    <string name="threeScore">+3 points</string>
+    <string name="twoScore">+2 points</string>
+    <string name="freeScore">Free Throw</string>
+    <string name="reset">Reset score</string>
+</resources>
